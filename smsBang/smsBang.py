@@ -308,7 +308,7 @@ class SMSsend_eight(object):
 
 
 if __name__ == "__main__":
-    mobile = "15726926008"  # 此处填写手机号即可
+    mobile = "13560514838"  # 此处填写手机号即可
     i = 1
     while 1:
         # mobile = ""
